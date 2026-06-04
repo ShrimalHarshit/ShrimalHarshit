@@ -135,7 +135,7 @@ Educational Infrastructure
 
 <p align="center">
 
-<img height="170" src="https://github.com/ShrimalHarshit/ShrimalHarshit/blob/output/github-contribution-grid-snake-dark.svg" />
+![Snake animation](https://github.com/ShrimalHarshit/ShrimalHarshit/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrimalHarshit&background=0d1117&ring=c8f55a&fire=c8f55a&currStreakLabel=c8f55a&hide_border=true" />
 
