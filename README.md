@@ -1,198 +1,194 @@
 <div align="center">
 
-# HARSHIT SHRIMAL
+# ⚡ HARSHIT SHRIMAL
 
-### Building AI • SaaS • Systems
+### Building AI • SaaS • Cognitive Systems
 
-```txt
-STATUS: ONLINE
-LOCATION: NASHIK, INDIA
-MODE: BUILDING
-MISSION: TURN IDEAS INTO SYSTEMS
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C8F55A&center=true&vCenter=true&width=700&lines=Building+Miru;Designing+Intelligent+Systems;Shipping+Products+Fast;Exploring+Cognitive+Architectures" />
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-c8f55a?style=for-the-badge\&labelColor=0D1117)
+![Mode](https://img.shields.io/badge/MODE-BUILDING-4AF0C4?style=for-the-badge\&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/FOCUS-MIRU-F5B93E?style=for-the-badge\&labelColor=0D1117)
+![Mission](https://img.shields.io/badge/MISSION-FUTURE_SYSTEMS-B48CFF?style=for-the-badge\&labelColor=0D1117)
 
 </div>
 
 ---
 
-# /ABOUT
-
-Most people write code.
-
-I build systems.
-
-My work sits at the intersection of:
-
-```txt
-Artificial Intelligence
-+
-Automation
-+
-Product Design
-+
-Scalable Infrastructure
-```
-
-I enjoy taking products from a rough idea to a deployed platform used by real people.
-
----
-
-# /CURRENT_MISSION
+# ◢ SYSTEM OVERVIEW
 
 ```yaml
-project:
-  name: Miru
+Operator: Harshit Shrimal
 
-focus:
-  - Memory Systems
-  - Cognitive Architectures
-  - AI Agents
-  - Long-Term Context
+Location: India
 
-objective:
-  Build software that thinks beyond
-  traditional chatbot interactions.
+Role:
+  - Founder Mindset
+  - Full Stack Engineer
+  - Product Builder
+
+Current Objective:
+  Build intelligent software systems
+  that combine memory, reasoning,
+  automation and real-world utility.
+
+Status: Active
 ```
 
 ---
 
-# /ACTIVE_PROJECTS
+# ◢ ACTIVE MISSIONS
 
-### MIRU
-
-An AI system exploring:
+### 🧠 MIRU
 
 ```txt
-Memory
-Reasoning
-Cognition
-Agency
+STATUS : IN DEVELOPMENT
+
+Building a next-generation AI platform focused on:
+
+• Memory Systems
+• Long-Term Context
+• Cognitive Architectures
+• Intelligent Agents
+• Human-AI Collaboration
 ```
 
 ---
 
-### ACADEMY OS
-
-Multi-academy management platform.
+### 🎓 ACADEMY OS
 
 ```txt
-Attendance
-Fees
-Analytics
-Admissions
-Payments
-Custom Forms
+Multi-tenant SaaS Infrastructure
+
+✓ Attendance Management
+✓ Fee Collection
+✓ Analytics
+✓ Admissions
+✓ Razorpay Integration
+✓ Dynamic Forms
 ```
 
 ---
 
-### LEARNING PLATFORM
-
-Educational infrastructure focused on:
+### 📚 LMS PLATFORM
 
 ```txt
-Video Systems
-Content Delivery
-Playlists
-Admin Workflows
-Learning Experience
+Educational Infrastructure
+
+✓ Dynamic Video Systems
+✓ Playlist Management
+✓ Content Architecture
+✓ Custom Admin Workflows
 ```
 
 ---
 
-# /TECHNOLOGY
-
-## FRONTEND
+# ◢ CURRENT RESEARCH
 
 ```txt
-React
-Next.js
-TypeScript
-Tailwind
-```
+[✓] AI Agents
 
-## BACKEND
+[✓] Memory Architectures
 
-```txt
-Laravel
-PHP
-Node.js
-REST APIs
-```
+[✓] Cognitive Engines
 
-## DATA
+[✓] Multi-Agent Systems
 
-```txt
-PostgreSQL
-MySQL
-Supabase
-```
+[✓] LLM Orchestration
 
-## INFRASTRUCTURE
-
-```txt
-AWS
-Docker
-Linux
-Coolify
-OpenPanel
-Nginx
-```
-
-## AI
-
-```txt
-LLMs
-AI Agents
-Prompt Engineering
-Memory Systems
-RAG
+[✓] Human-AI Workflows
 ```
 
 ---
 
-# /THINGS_I_CARE_ABOUT
+# ◢ TECHNOLOGY STACK
 
-```txt
-Building useful software
+### FRONTEND
 
-Shipping fast
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
 
-Learning continuously
+### BACKEND
 
-Thinking in systems
+<p>
+<img src="https://skillicons.dev/icons?i=php,nodejs,laravel" />
+</p>
 
-Creating leverage
+### DATABASE
 
-Solving difficult problems
-```
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+</p>
+
+### INFRASTRUCTURE
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
+</p>
 
 ---
 
-# /BUILDING_PHILOSOPHY
+# ◢ LIVE TELEMETRY
 
-"Complexity is inevitable.
+<p align="center">
 
-Confusion is optional."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8f55a&icon_color=c8f55a&text_color=ffffff" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=0d1117&ring=c8f55a&fire=c8f55a&currStreakLabel=c8f55a&hide_border=true" />
+
+</p>
 
 ---
 
-# /SYSTEM_STATUS
+# ◢ BUILDING PHILOSOPHY
+
+> Most people write code.
+>
+> I build systems.
+>
+> Most people ship features.
+>
+> I ship products.
+>
+> Most people think in functions.
+>
+> I think in architectures.
+
+---
+
+# ◢ TIMELINE
 
 ```txt
-Projects Building  : ████████████ 12+
+2024 → SaaS Systems
 
-SaaS Platforms     : █████████ 5+
+2025 → AI Products
 
-AI Products        : ██████ 3+
+2026 → Miru
 
-Curiosity          : ∞
+2027 → Cognitive Engine
+
+∞ → Keep Building
 ```
 
 ---
 
 <div align="center">
 
-### BUILD • BREAK • LEARN • REPEAT
+## BUILD • LEARN • SHIP • REPEAT
+
+### "The goal isn't to build software.
+
+### The goal is to build systems that create leverage."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=c8f55a&style=for-the-badge" />
 
 </div>
