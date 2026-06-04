@@ -135,8 +135,6 @@ Educational Infrastructure
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShrimalHarshit&show_icons=true&theme=tokyonight)
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrimalHarshit&background=0d1117&ring=c8f55a&fire=c8f55a&currStreakLabel=c8f55a&hide_border=true" />
 
 </p>
