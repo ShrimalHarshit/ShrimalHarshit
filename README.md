@@ -189,6 +189,6 @@ Educational Infrastructure
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=c8f55a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ShrimalHarshit&label=Visitors&color=c8f55a&style=for-the-badge" />
 
 </div>
