@@ -1,138 +1,198 @@
 <div align="center">
 
-# Hey, I'm Harshit. 👋
+# HARSHIT SHRIMAL
 
-### Builder • Full-Stack Engineer • Product Thinker
+### Building AI • SaaS • Systems
 
-*Building AI Systems, SaaS Products & Future Cognitive Architectures*
-
-<br>
-
-![Open To Work](https://img.shields.io/badge/Open_to_Work-c8f55a?style=for-the-badge\&labelColor=111111\&color=c8f55a)
-![Building In Public](https://img.shields.io/badge/Building_in_Public-4af0c4?style=for-the-badge\&labelColor=111111)
-![Laravel + React + AI](https://img.shields.io/badge/Laravel_+_React_+_AI-f5b93e?style=for-the-badge\&labelColor=111111)
-![Self Hosting](https://img.shields.io/badge/Self_Hosting_Enjoyer-b48cff?style=for-the-badge\&labelColor=111111)
+```txt
+STATUS: ONLINE
+LOCATION: NASHIK, INDIA
+MODE: BUILDING
+MISSION: TURN IDEAS INTO SYSTEMS
+```
 
 </div>
 
 ---
 
-## 📊 Quick Stats
+# /ABOUT
 
-| Projects | SaaS Apps | AI Builds | Status          |
-| -------- | --------- | --------- | --------------- |
-| **12+**  | **5+**    | **3+**    | **∞ Ship Mode** |
+Most people write code.
+
+I build systems.
+
+My work sits at the intersection of:
+
+```txt
+Artificial Intelligence
++
+Automation
++
+Product Design
++
+Scalable Infrastructure
+```
+
+I enjoy taking products from a rough idea to a deployed platform used by real people.
 
 ---
 
-## // WHAT I BUILD
+# /CURRENT_MISSION
 
-SaaS platforms, AI-powered applications, management systems, automation tools, and infrastructure.
+```yaml
+project:
+  name: Miru
 
-I enjoy taking products from:
+focus:
+  - Memory Systems
+  - Cognitive Architectures
+  - AI Agents
+  - Long-Term Context
 
-```txt
-Idea
- ↓
-Architecture
- ↓
-Development
- ↓
-Deployment
- ↓
-Scale
+objective:
+  Build software that thinks beyond
+  traditional chatbot interactions.
 ```
 
 ---
 
-## // CURRENTLY
+# /ACTIVE_PROJECTS
+
+### MIRU
+
+An AI system exploring:
 
 ```txt
-→ Building Miru
-  AI product exploring memory, cognition and intelligent interaction
-
-→ Researching Cognitive Engines
-  Beyond traditional LLM architectures
-
-→ Exploring Multi-Agent Systems
-
-→ Shipping faster than yesterday
+Memory
+Reasoning
+Cognition
+Agency
 ```
 
 ---
 
-## // FEATURED PROJECTS
+### ACADEMY OS
 
-### 🧠 Miru
+Multi-academy management platform.
 
-Future-focused AI platform exploring:
-
-* Memory Systems
-* Long-Term Context
-* Cognitive Architectures
-* Intelligent Agents
-
----
-
-### 🎓 Academy Management System
-
-Multi-academy SaaS platform featuring:
-
-* Attendance Management
-* Fee Tracking
-* Razorpay Integration
-* Form Builder
-* Analytics Dashboard
+```txt
+Attendance
+Fees
+Analytics
+Admissions
+Payments
+Custom Forms
+```
 
 ---
 
-### 📚 LMS Platform
+### LEARNING PLATFORM
 
-* Dynamic Video Sections
-* Playlist Management
-* Content Grids
-* Custom Admin Panels
+Educational infrastructure focused on:
 
----
-
-## // TECH STACK
-
-### Frontend
-
-`React` `Next.js` `TypeScript` `Tailwind`
-
-### Backend
-
-`Laravel` `PHP` `Node.js`
-
-### Database
-
-`PostgreSQL` `MySQL` `Supabase`
-
-### DevOps
-
-`AWS` `Docker` `Coolify` `OpenPanel` `Linux` `Nginx`
-
-### AI
-
-`OpenAI` `LLMs` `Agents` `RAG` `Memory Systems`
+```txt
+Video Systems
+Content Delivery
+Playlists
+Admin Workflows
+Learning Experience
+```
 
 ---
 
-## // PHILOSOPHY
+# /TECHNOLOGY
 
-> I don't just build features.
->
-> I build systems.
->
-> I don't just write code.
->
-> I solve problems.
+## FRONTEND
+
+```txt
+React
+Next.js
+TypeScript
+Tailwind
+```
+
+## BACKEND
+
+```txt
+Laravel
+PHP
+Node.js
+REST APIs
+```
+
+## DATA
+
+```txt
+PostgreSQL
+MySQL
+Supabase
+```
+
+## INFRASTRUCTURE
+
+```txt
+AWS
+Docker
+Linux
+Coolify
+OpenPanel
+Nginx
+```
+
+## AI
+
+```txt
+LLMs
+AI Agents
+Prompt Engineering
+Memory Systems
+RAG
+```
+
+---
+
+# /THINGS_I_CARE_ABOUT
+
+```txt
+Building useful software
+
+Shipping fast
+
+Learning continuously
+
+Thinking in systems
+
+Creating leverage
+
+Solving difficult problems
+```
+
+---
+
+# /BUILDING_PHILOSOPHY
+
+"Complexity is inevitable.
+
+Confusion is optional."
+
+---
+
+# /SYSTEM_STATUS
+
+```txt
+Projects Building  : ████████████ 12+
+
+SaaS Platforms     : █████████ 5+
+
+AI Products        : ██████ 3+
+
+Curiosity          : ∞
+```
 
 ---
 
 <div align="center">
 
-### Building. Learning. Shipping. 🚀
+### BUILD • BREAK • LEARN • REPEAT
 
 </div>
