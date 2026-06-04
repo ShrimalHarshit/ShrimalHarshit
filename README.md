@@ -135,9 +135,9 @@ Educational Infrastructure
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8f55a&icon_color=c8f55a&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShrimalHarshit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8f55a&icon_color=c8f55a&text_color=ffffff" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=0d1117&ring=c8f55a&fire=c8f55a&currStreakLabel=c8f55a&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrimalHarshit&background=0d1117&ring=c8f55a&fire=c8f55a&currStreakLabel=c8f55a&hide_border=true" />
 
 </p>
 
