@@ -135,7 +135,7 @@ Educational Infrastructure
 
 <p align="center">
 
-<img height="170" src="[https://github-readme-streak-stats.herokuapp.com/?user=ShrimalHarshit&background=0d1117&ring=c8f55a&fire=c8f55a&currStreakLabel=c8f55a&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=ShrimalHarshit&background=0D1117&stroke=C8F55A&ring=C8F55A&fire=C8F55A&currStreakNum=C8F55A&currStreakLabel=C8F55A&sideNums=C8F55A&sideLabels=C8F55A&dates=FFFFFF&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=ShrimalHarshit&background=0D1117&stroke=C8F55A&ring=C8F55A&fire=C8F55A&currStreakNum=C8F55A&currStreakLabel=C8F55A&sideNums=C8F55A&sideLabels=C8F55A&dates=FFFFFF&hide_border=true)" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrimalHarshit&background=0D1117&stroke=C8F55A&ring=C8F55A&fire=C8F55A&currStreakNum=C8F55A&currStreakLabel=C8F55A&sideNums=C8F55A&sideLabels=C8F55A&dates=FFFFFF&hide_border=true" />
 
 </p>
 
